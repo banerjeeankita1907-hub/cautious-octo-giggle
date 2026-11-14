@@ -3,6 +3,7 @@ databases:
     databaseName: stockpilot
     user: stockpilot
     plan: free
+    region: singapore
 
 services:
   - type: web
