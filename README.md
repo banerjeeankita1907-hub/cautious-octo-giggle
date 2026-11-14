@@ -2,19 +2,7 @@
 
 StockPilot is a full-stack business operations application for small and mid-sized retailers. It brings inventory, customer records, point-of-sale transactions, team access and operational reporting into one responsive workspace.
 
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/banerjeeankita1907-hub/cautious-octo-giggle)
-
-## Live deployment
-
-**One-click deployment:** [Deploy StockPilot to Render](https://render.com/deploy?repo=https://github.com/banerjeeankita1907-hub/cautious-octo-giggle)
-
-1. Open the deploy link and sign in to Render.
-2. Review the Blueprint resources and choose **Apply**.
-3. Wait for the web service to finish its first build. Render will assign the public `.onrender.com` URL.
-4. Open the assigned URL. On first visit, create the administrator account in the setup wizard.
-
-The deployment Blueprint currently uses Render's free web service and free PostgreSQL tier to make evaluation possible without choosing a paid plan. **Important:** Render documents that free Postgres databases expire 30 days after creation and that free web services can spin down. This configuration is for evaluation/demo use, not durable production records. Upgrade the database to a paid plan before using real business data. See [Render free-tier limitations](https://render.com/docs/free) and [current pricing](https://render.com/pricing).
-
+https://stockpilot-trjk.onrender.com
 ## Features
 
 - **Overview dashboard:** inventory valuation, daily and month-to-date sales, seven-day sales activity, reorder attention and recent invoices.
